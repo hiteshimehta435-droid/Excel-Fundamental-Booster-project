@@ -373,7 +373,7 @@ Meaning:
 
 ------------------------------------------------------------------------
 
-# 14. TEXT Functions
+# 13. TEXT Functions
 
 TEXT functions help manipulate and format text.
 
@@ -407,7 +407,7 @@ Converts text to lowercase.
 
 ------------------------------------------------------------------------
 
-# 15. XLOOKUP
+# 14. XLOOKUP
 
 XLOOKUP is a modern lookup function.
 
@@ -438,7 +438,7 @@ Meaning:
 
 ------------------------------------------------------------------------
 
-# 16. XMATCH
+# 15. XMATCH
 
 XMATCH returns the position of a value in a range.
 
@@ -459,7 +459,7 @@ It returns the position of Laptop.
 ------------------------------------------------------------------------
 
 
-# 17. Math Functions
+# 16. Math Functions
 
 ## ROUND
 
@@ -482,7 +482,7 @@ Example:
 
 ------------------------------------------------------------------------
 
-# 18. Complete Formula Quick Reference
+# 17. Complete Formula Quick Reference
 
   Topic                Formula
   -------------------- --------------------------------------
